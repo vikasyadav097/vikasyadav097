@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas Yadav 
 - 👀 I’m interested in Full Stack 
-- 🌱 I’m currently learning  Front=Eend
+- 🌱 I’m currently learning  Front-End
 - 📫 How to reach me - hustlewithvikas@gmail.com
 - ⚡ Fun fact: I'm Not Alien 
 
