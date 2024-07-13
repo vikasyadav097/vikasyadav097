@@ -40,7 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+<p align="left"></p>
 
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thevikasyadav09/" target="_blank">
@@ -60,6 +62,6 @@
 
 
 <div align="center">
-  <img height="200" src="3cc428c50e23f8c8d1a0e3358d821468.jpg"  />
+  <img height="200" src="https://i.pinimg.com/564x/73/8e/d7/738ed7fa12797788437cd69c84193ffa.jpg"  /> 
 </div>
 
