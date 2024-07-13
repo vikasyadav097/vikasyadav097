@@ -43,7 +43,7 @@
 <p align="left"></p>
 
 <div>
-  <hi> Connect Me On Social Media </hi>
+  <hi > <centre>  Connect Me On Socail Media </centre> </hi>
 </div>
 
 <div align="center">
@@ -64,6 +64,6 @@
 
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/73/8e/d7/738ed7fa12797788437cd69c84193ffa.jpg"  /> 
+  <img height="200" src="https://i.pinimg.com/564x/18/7a/7e/187a7ea341c2f19680cc41ae94da68d9.jpg"  /> 
 </div>
 
