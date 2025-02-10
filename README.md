@@ -17,20 +17,12 @@ I am always eager to collaborate on **innovative projects 🤝**, solve **challe
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend Development:** HTML, CSS, JavaScript, React, Redux, Tailwind CSS
-- **Backend Development:** Node.js, Express.js
+- **Frontend Development:** HTML, CSS, JavaScript, React, Redux, Tailwind 
 - **Data Science:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn
-- **MERN Stack:** MongoDB, Express.js, React, Node.js
-- **Cloud Computing:** AWS, Azure, Google Cloud
-- **DevOps:** Docker, Kubernetes, Jenkins
+- **Cloud Computing:** AWS,  Google Cloud
+- **DevOps:** Docker
 
 ---
-
-### 📫 Connect with Me
-- 💼 [LinkedIn](#)
-- 📝 [Portfolio](#)
-- 📧 [Email](#)
-
 ---
 
 <p align="center">
