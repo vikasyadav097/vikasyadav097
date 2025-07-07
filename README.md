@@ -1,35 +1,44 @@
-Hi there! 👋
-🚀 About Me
-I'm a Software Engineer 💻 with a strong academic foundation 🎓 and an ever-growing passion for solving real-world problems using data and intelligent systems. My expertise lies in Data Engineering, AI/ML, and Data Science, with hands-on experience in Cloud Computing ☁️ to ensure scalability and performance.
+# 👋 Hi there, I'm Vikas Yadav
 
-🔹 What I Do
-Design and develop robust, scalable data pipelines using modern data engineering tools
+## 🚀 About Me
 
-Build and deploy AI/ML models to extract meaningful patterns and make accurate predictions
+I'm a **Software Engineer** with a strong foundation in computer science and a passion for creating intelligent, data-driven systems. I specialize in **AI/ML**, **Data Engineering**, and **Cloud Computing**, and I'm always looking to explore new tools, techniques, and technologies to build impactful solutions.
 
-Perform data preprocessing, analysis, and visualization for actionable insights
+## 💼 What I Do
 
-Automate end-to-end ML workflows and manage MLOps practices
+- 🔁 Design and develop **scalable data pipelines**
+- 🤖 Build and deploy **AI/ML models** for real-world applications
+- 📊 Perform **data analysis and visualization** for actionable insights
+- ⚙️ Automate **ML workflows** with a focus on MLOps best practices
+- ☁️ Work with **cloud platforms** (AWS, GCP) to build scalable infrastructure
+- 🧠 Constantly learn and apply **cutting-edge technologies** in data and AI
 
-Leverage cloud platforms like AWS and GCP for scalable infrastructure
+## 🌱 Always Exploring
 
-Collaborate on cross-functional projects to solve complex data problems
+I’m always excited to:
+- Collaborate on innovative and open-source projects
+- Solve challenging problems using data and AI
+- Stay updated with the latest in tech, research, and industry practices
 
-🌍 Always Exploring
-I’m deeply passionate about building data-driven products, enhancing machine learning systems, and exploring cutting-edge AI applications 🤖. I love collaborating on impactful projects, staying in sync with emerging trends, and pushing the limits of what technology can do.
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Data Engineering: SQL, Airflow, Apache Spark, Kafka, DBT, Snowflake, BigQuery
+### 👷‍♂️ Data Engineering
+- SQL, Apache Airflow, Apache Spark, Kafka, DBT, Snowflake, BigQuery
 
-AI/ML: Python, Scikit-Learn, TensorFlow, PyTorch, Hugging Face, LangChain
+### 🧠 AI/ML & Data Science
+- Python, Scikit-Learn, TensorFlow, PyTorch, Hugging Face, LangChain
+- Pandas, NumPy, Matplotlib, Seaborn, StatsModels, Jupyter Notebooks
 
-Data Science: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks, StatsModels
+### 🌐 Web Development
+- HTML, CSS, JavaScript, React, Redux, Tailwind CSS
 
-Frontend Development: HTML, CSS, JavaScript, React, Redux, Tailwind
+### ☁️ Cloud & DevOps
+- AWS (S3, EC2, Lambda), GCP (BigQuery, Vertex AI)
+- Docker, Git, MLflow, DVC, CI/CD
 
-Cloud Computing: AWS (S3, EC2, Lambda), Google Cloud (BigQuery, Vertex AI)
+---
 
-DevOps & MLOps: Docker, Git, MLflow, DVC, CI/CD pipelines
+
 
 ---
 ---
