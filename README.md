@@ -1,26 +1,35 @@
-# Hi there! 👋
+Hi there! 👋
+🚀 About Me
+I'm a Software Engineer 💻 with a strong academic foundation 🎓 and an ever-growing passion for solving real-world problems using data and intelligent systems. My expertise lies in Data Engineering, AI/ML, and Data Science, with hands-on experience in Cloud Computing ☁️ to ensure scalability and performance.
 
-## 🚀 About Me
+🔹 What I Do
+Design and develop robust, scalable data pipelines using modern data engineering tools
 
-I'm a **Software Engineer 💻** with a strong foundation 🎓 and a passion for technology. I specialize in **AI/ML and Data Engineering**, with a comprehensive skill set in **Cloud Computing ☁️**. My journey in tech has led me to explore various facets of software engineering, focusing on leveraging data to drive intelligent solutions.
+Build and deploy AI/ML models to extract meaningful patterns and make accurate predictions
 
-### 🔹 What I Do
-- Build and maintain **scalable data pipelines** & **ML models**
-- Write **clean, efficient code** for data-driven insights
-- Develop workflows for **data analysis & decision-making**
-- Work on AI/ML 🤖 to enhance **predictive capabilities**
-- Expand knowledge in **Cloud Computing** for scalability
+Perform data preprocessing, analysis, and visualization for actionable insights
 
-### 🌍 Always Exploring
-I am always eager to collaborate on **innovative projects 🤝**, solve **challenging problems 🧩**, and stay updated with the **latest industry trends 🚀**. My goal is to contribute to impactful solutions that push the boundaries of technology.
+Automate end-to-end ML workflows and manage MLOps practices
 
----
+Leverage cloud platforms like AWS and GCP for scalable infrastructure
 
-### 🛠️ Tech Stack
-- **Frontend Development:** HTML, CSS, JavaScript, React, Redux, Tailwind 
-- **Data Science:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Cloud Computing:** AWS,  Google Cloud
-- **DevOps:** Docker
+Collaborate on cross-functional projects to solve complex data problems
+
+🌍 Always Exploring
+I’m deeply passionate about building data-driven products, enhancing machine learning systems, and exploring cutting-edge AI applications 🤖. I love collaborating on impactful projects, staying in sync with emerging trends, and pushing the limits of what technology can do.
+
+🛠️ Tech Stack
+Data Engineering: SQL, Airflow, Apache Spark, Kafka, DBT, Snowflake, BigQuery
+
+AI/ML: Python, Scikit-Learn, TensorFlow, PyTorch, Hugging Face, LangChain
+
+Data Science: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks, StatsModels
+
+Frontend Development: HTML, CSS, JavaScript, React, Redux, Tailwind
+
+Cloud Computing: AWS (S3, EC2, Lambda), Google Cloud (BigQuery, Vertex AI)
+
+DevOps & MLOps: Docker, Git, MLflow, DVC, CI/CD pipelines
 
 ---
 ---
